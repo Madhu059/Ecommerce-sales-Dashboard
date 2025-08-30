@@ -67,3 +67,4 @@ DIVIDE(
     [Total Sales] - CALCULATE([Total Sales], DATEADD(Dim_Date[Date], -1, YEAR)),
     CALCULATE([Total Sales], DATEADD(Dim_Date[Date], -1, YEAR))
 )
+you can see the overview of the report here(https://github.com/Madhu059/Ecommerce-sales-Dashboard/blob/main/snapsnot_ecommerce_sales_db.PNG)
